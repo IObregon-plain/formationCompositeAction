@@ -1,4 +1,4 @@
-name: 'Hello World'
+name: 'Hello World Composite'
 description: 'Greet someone'
 inputs:
   who-to-greet:
